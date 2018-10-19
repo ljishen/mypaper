@@ -1,0 +1,1 @@
++ scripts/get_mean.py data/global_clean.csv 5

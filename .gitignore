@@ -1,2 +1,1 @@
-.pipeline_cache
-popper/
+.mypy_cache
